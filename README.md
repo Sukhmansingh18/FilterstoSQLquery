@@ -18,3 +18,8 @@ Your task is to examine the organization’s data in their <b>employees</b> and 
 <h2>Retrieve login attempts outside of Mexico</h2>
 <p>There’s been suspicious activity with login attempts, but the team has determined that this activity didn't originate in Mexico. Now, you need to investigate login attempts that occurred outside of Mexico. Use filters in SQL to create a query that identifies all login attempts that occurred outside of Mexico. (When referring to Mexico, the <b>country</b> column contains values of both <b>MEX</b> and <b>MEXICO</b>, and you need to use the LIKE keyword with <b>%</b> to make sure your query reflects this.)</p>
 <img width="708" alt="Screenshot 2023-11-12 at 10 38 28 AM" src="https://github.com/Sukhmansingh18/FilterstoSQLquery/assets/139189335/c4b3bb07-ab09-4a3e-9b08-4ea9a78ddde1"><br/>
+<h2>Retrieve employees in Marketing</h2><br />
+<p>Your team wants to perform security updates on specific employee machines in the Marketing department. You’re responsible for getting information on these employee machines and will need to query the employees table. Use filters in SQL to create a query that identifies all employees in the Marketing department for all offices in the East building.
+
+(The department of the employee is found in the department column, which contains values that include Marketing. The office is found in the office column. Some examples of values in this column are East-170, East-320, and North-434. You’ll need to use the LIKE keyword with % to filter for the East building.)</p><br />
+
