@@ -14,4 +14,6 @@ Your task is to examine the organization’s data in their <b>employees</b> and 
 <br/>
 <h2>Retrieve login attempts on specific dates</h2>
 <p>A suspicious event occurred on 2022-05-09. To investigate this event, you want to review all login attempts which occurred on this day and the day before. Use filters in SQL to create a query that identifies all login attempts that occurred on 2022-05-09 or 2022-05-08. (The date of the login attempt is found in the <b>login_date</b> column.)</p><br />
-
+<img width="710" alt="Screenshot 2023-11-12 at 10 15 35 AM" src="https://github.com/Sukhmansingh18/FilterstoSQLquery/assets/139189335/88c86533-40f7-45d2-acb2-b1288028ec98"><br />
+<h2>Retrieve login attempts outside of Mexico</h2>
+<p>There’s been suspicious activity with login attempts, but the team has determined that this activity didn't originate in Mexico. Now, you need to investigate login attempts that occurred outside of Mexico. Use filters in SQL to create a query that identifies all login attempts that occurred outside of Mexico. (When referring to Mexico, the <b>country</b> column contains values of both <b>MEX</b> and <b>MEXICO</b>, and you need to use the LIKE keyword with <b>%</b> to make sure your query reflects this.)</p>
