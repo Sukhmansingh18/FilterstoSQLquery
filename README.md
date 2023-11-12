@@ -25,6 +25,7 @@ Your task is to examine the organization’s data in their <b>employees</b> and 
 <img width="713" alt="Screenshot 2023-11-12 at 10 49 24 AM" src="https://github.com/Sukhmansingh18/FilterstoSQLquery/assets/139189335/86eba605-bec7-40cd-8b4d-2e8d68c861b4"><br />
 <h2>Retrieve all employees not in Information Technology</h2><br />
 <p>Your team needs to make one more update to employee machines. The employees who are in the Information Technology department already had this update, but employees in all other departments need it. Use filters in SQL to create a query which identifies all employees not in the IT department. (The department of the employee is found in the department column, which contains values that include <b>Information Technology</b>.)</p><br />
+<img width="715" alt="Screenshot 2023-11-12 at 11 02 28 AM" src="https://github.com/Sukhmansingh18/FilterstoSQLquery/assets/139189335/ee592879-fb9d-45a0-9026-de36a9289358">
 
 <h2>Summary</h2>
 <p></p>
