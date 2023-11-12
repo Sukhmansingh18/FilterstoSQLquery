@@ -22,4 +22,8 @@ Your task is to examine the organization’s data in their <b>employees</b> and 
 <p>Your team wants to perform security updates on specific employee machines in the Marketing department. You’re responsible for getting information on these employee machines and will need to query the employees table. Use filters in SQL to create a query that identifies all employees in the Marketing department for all offices in the East building.
 
 (The department of the employee is found in the department column, which contains values that include Marketing. The office is found in the office column. Some examples of values in this column are East-170, East-320, and North-434. You’ll need to use the LIKE keyword with % to filter for the East building.)</p><br />
+<img width="713" alt="Screenshot 2023-11-12 at 10 49 24 AM" src="https://github.com/Sukhmansingh18/FilterstoSQLquery/assets/139189335/86eba605-bec7-40cd-8b4d-2e8d68c861b4"><br />
+<h2>Retrieve all employees not in Information Technology</h2><br />
+<p>Your team needs to make one more update to employee machines. The employees who are in the Information Technology department already had this update, but employees in all other departments need it. Use filters in SQL to create a query which identifies all employees not in the IT department. (The department of the employee is found in the department column, which contains values that include <b>Information Technology</b>.)</p><br />
+
 
