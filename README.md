@@ -28,7 +28,11 @@ Your task is to examine the organization’s data in their <b>employees</b> and 
 <img width="715" alt="Screenshot 2023-11-12 at 11 02 28 AM" src="https://github.com/Sukhmansingh18/FilterstoSQLquery/assets/139189335/ee592879-fb9d-45a0-9026-de36a9289358">
 
 <h2>Summary</h2>
-<p></p>
+<p>These SQL filtering concepts allow you to retrieve specific subsets of data from a database based on specified conditions, providing a powerful tool for data analysis and manipulation.
+
+
+
+</p>
 
 
 
